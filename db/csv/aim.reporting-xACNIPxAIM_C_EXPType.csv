@@ -1,0 +1,11 @@
+﻿aim_id;aim_exp_item;role_id;status;aim_exp_id;completed_flag;aim_exp_desc
+aim_id 1;aim_exp_item 1;role_id 1;status 1;aim_exp_id 1;true;aim_exp_desc 1
+aim_id 2;aim_exp_item 2;role_id 2;status 2;aim_exp_id 2;true;aim_exp_desc 2
+aim_id 3;aim_exp_item 3;role_id 3;status 3;aim_exp_id 3;false;aim_exp_desc 3
+aim_id 4;aim_exp_item 4;role_id 4;status 4;aim_exp_id 4;true;aim_exp_desc 4
+aim_id 5;aim_exp_item 5;role_id 5;status 5;aim_exp_id 5;false;aim_exp_desc 5
+aim_id 6;aim_exp_item 6;role_id 6;status 6;aim_exp_id 6;true;aim_exp_desc 6
+aim_id 7;aim_exp_item 7;role_id 7;status 7;aim_exp_id 7;false;aim_exp_desc 7
+aim_id 8;aim_exp_item 8;role_id 8;status 8;aim_exp_id 8;false;aim_exp_desc 8
+aim_id 9;aim_exp_item 9;role_id 9;status 9;aim_exp_id 9;true;aim_exp_desc 9
+aim_id 10;aim_exp_item 10;role_id 10;status 10;aim_exp_id 10;false;aim_exp_desc 10
